@@ -4,3 +4,6 @@
 *.exe
 *.txt
 Project Resource
+
+# Claude Code settings
+.claude/settings.local.json
